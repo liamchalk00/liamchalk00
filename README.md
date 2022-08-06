@@ -21,7 +21,7 @@
       <a href="#macropower-tech">
         <img src="./img/systemverilog.svg" width="48" height="48" alt="SystemVerilog" />
       </a>
-      <br>SystemVerilog
+      <br>Verilog
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
