@@ -19,12 +19,6 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/latex.svg" width="48" height="48" alt="LaTeX" />
-      </a>
-      <br>LaTeX
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/systemverilog.svg" width="48" height="48" alt="SystemVerilog" />
       </a>
       <br>SystemVerilog
@@ -49,15 +43,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -70,6 +64,12 @@
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/react-original.svg" width="48" height="48" alt="TCL" />
+      </a>
+      <br>TCL
     </td>
   </tr>
 </table>
