@@ -12,3 +12,11 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Tool Command Language" src="https://img.shields.io/badge/-TCL-red?logo=TCL" />
 </p>
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamchalk00&layout=compact&hide_title=1&card_width=300" alt="Public Respository Languages" />
+  <br />
+  <small>Public Repository Languages</small>
+  <br />
+  <br />
+</div>
