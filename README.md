@@ -63,7 +63,7 @@
       <a href="#macropower-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="Django" />
       </a>
-      <br>JavaScript
+      <br>Django
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
