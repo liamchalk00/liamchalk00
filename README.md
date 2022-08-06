@@ -1,5 +1,6 @@
 ### Salutations! Welcome to my GitHub profile page! ʕ•ᴥ•ʔ
 
+<!--
 <h4>Coding Languages:</h4>
 <p> 
   <img alt="SystemVerilog" src="https://img.shields.io/badge/-SystemVerilog-107a02?logo=SystemVerilog" />
@@ -12,6 +13,10 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Tool Command Language" src="https://img.shields.io/badge/-TCL-red?logo=TCL" />
 </p>
+-->
+
+<h4 align="left" id="macropower-tech">Check Out My Website:</h4> 
+<a href="liamchalk00.github.io">liamchalk00.github.io</a>
 
 <h4 align="left" id="macropower-tech">Coding Languages:</h4>
 
