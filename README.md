@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salutations! Welcome to my GitHub profile page!
 
 <!--
 **liamchalk00/liamchalk00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
