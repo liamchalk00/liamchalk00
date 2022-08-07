@@ -3,7 +3,7 @@
 <h4 align="left" id="macropower-tech">Check Out My Website:</h4> 
 <a href="liamchalk00.github.io">liamchalk00.github.io</a>
 
-<h3>Where to find me</h3>
+<h4>Social Media:</h4>
 <p>
 <a href="https://www.linkedin.com/in/liamchalk00" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:liamchalk00@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-ff2500.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
