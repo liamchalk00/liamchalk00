@@ -67,7 +67,7 @@
       <a href="#macropower-tech" >
         <img src="./img/matlab.png" width="48" height="48" alt="Matlab" />
       </a>
-      <br>TCL
+      <br>Matlab
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
