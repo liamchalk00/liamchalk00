@@ -65,6 +65,12 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
+        <img src="./img/matlab.svg" width="48" height="48" alt="Matlab" />
+      </a>
+      <br>TCL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
         <img src="./img/tcl.svg" width="48" height="48" alt="TCL" />
       </a>
       <br>TCL
