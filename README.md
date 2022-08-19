@@ -1,7 +1,7 @@
 ### Salutations! Welcome to my GitHub profile page! ʕ•ᴥ•ʔ
 
-<h4 align="left" id="macropower-tech">Check Out My Website:</h4> 
-<a href="liamchalk00.github.io">liamchalk00.github.io</a>
+<h4 align="left">Check Out My Website:</h4> 
+<a href="https://liamchalk00.github.io/">liamchalk00.github.io</a>
 
 <h4>Social Media:</h4>
 <p>
@@ -11,66 +11,66 @@
 <a href="https://www.instagram.com/liamchalk00/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h4 align="left" id="macropower-tech">Coding Languages:</h4>
+<h4 align="left">Coding Languages:</h4>
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="./img/systemverilog.svg" width="48" height="48" alt="SystemVerilog" />
       </a>
       <br>Verilog
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="./img/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="./img/c++.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="./img/java.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="./img/html.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="./img/git.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="./img/django.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a>
         <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a>
         <img src="./img/matlab.png" width="48" height="48" alt="Matlab" />
       </a>
       <br>Matlab
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a>
         <img src="./img/tcl.svg" width="48" height="48" alt="TCL" />
       </a>
       <br>TCL
