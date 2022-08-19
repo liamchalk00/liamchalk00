@@ -84,7 +84,7 @@
   <small>Public Repository Languages</small>
   <br />
   <br />
-  <a href="https://github.com/MacroPower/MacroPower">
+  <a href="https://github.com/liamchalk00">
     <img src="https://komarev.com/ghpvc/?username=liamchalk00" alt="page views" />
   </a>
 </div>
