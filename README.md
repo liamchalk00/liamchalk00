@@ -53,7 +53,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./img/opencv.svg" width="48" height="48" alt="OpenCV" />
+        <img src="./img/opencv.png" width="48" height="48" alt="OpenCV" />
       </a>
       <br>OpenCV
     </td>
