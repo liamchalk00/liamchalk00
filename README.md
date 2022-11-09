@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/liamchalk00/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h4 align="left">Coding Languages:</h4>
+<h4 align="left">Coding Languages and Libraries:</h4>
 
 <table>
   <tr>
@@ -50,6 +50,12 @@
         <img src="./img/git.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/opencv.svg" width="48" height="48" alt="OpenCV" />
+      </a>
+      <br>OpenCV
     </td>
     <td align="center" width="96">
       <a>
