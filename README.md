@@ -47,15 +47,21 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./img/git.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a>
         <img src="./img/opencv.png" width="48" height="48" alt="OpenCV" />
       </a>
       <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/matlab.png" width="48" height="48" alt="Matlab" />
+      </a>
+      <br>Matlab
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/git.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
     </td>
     <td align="center" width="96">
       <a>
@@ -68,12 +74,6 @@
         <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="./img/matlab.png" width="48" height="48" alt="Matlab" />
-      </a>
-      <br>Matlab
     </td>
     <td align="center" width="96">
       <a>
