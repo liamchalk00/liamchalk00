@@ -68,7 +68,7 @@ flowchart LR
         r17["HDLCoderInstructor"]
     end
 
-    subgraph languages["GitHub-detected languages"]
+    subgraph languages["Programming Languages"]
         l1["CSS"]
         l2["HTML"]
         l3["JavaScript"]
